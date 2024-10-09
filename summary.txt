@@ -1,9 +1,7 @@
-                             SUMMARY 
+                                                                SUMMARY 
                     
 
-      This code is a simple yet interactive number guessing game. It engages the player
-      through personalized greetings and prompts while providing real-time feedback on 
-      their guesses. The game continues until the player correctly identifies the random
-      number, with error handling to ensure a smooth user experience. Each part of the code 
-      is designed to enhance interaction and maintain engagement, making the game both fun
+      This code is a simple yet interactive number guessing game. It engages the player through personalized greetings and prompts while providing real-time feedback 
+      on  their guesses. The game continues until the player correctly identifies the random number, with error handling to ensure a smooth user experience. Each part 
+      of the code is designed to enhance interaction and maintain engagement, making the game both fun
       and educational.
