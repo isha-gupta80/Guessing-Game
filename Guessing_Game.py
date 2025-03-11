@@ -1,9 +1,6 @@
 import random 
-
 import time
-
 guess = 0
-
 tries = 0
 
 number = random.randint(1,10)
